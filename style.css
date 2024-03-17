@@ -29,5 +29,5 @@
 }
 #selectorField img{
     width: 12px;
-    transition: ;
+    transition: transform;
 }
