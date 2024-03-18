@@ -46,5 +46,5 @@
     padding: 15px 0 15px 70px;
     list-style: none;
     cursor: pointer;
-    box-sizing: ;
+    box-sizing: border-box;
 }
