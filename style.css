@@ -37,5 +37,5 @@
 }
 #list{
     width: 100%;
-    background: rgba(red, green, blue, alpha);
+    background: rgba(255, green, blue, alpha);
 }
