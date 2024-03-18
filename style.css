@@ -56,5 +56,5 @@
     left: 25px;
 }
 .options:hover{
-    background: rgba(255, green, blue, alpha);
+    background: rgba(255, 255, blue, alpha);
 }
