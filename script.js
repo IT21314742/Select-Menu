@@ -1,1 +1,1 @@
-var selectorField = document.getElementById()
+var selectorField = document.getElementById("")
