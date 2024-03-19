@@ -1,2 +1,2 @@
 var selectorField = document.getElementById("selectorField");
-var selectText = document.
+var selectText = document.getElementById
