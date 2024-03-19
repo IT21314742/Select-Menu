@@ -1,3 +1,3 @@
 var selectorField = document.getElementById("selectorField");
 var selectText = document.getElementById("selectText");
-var options
+var options 
