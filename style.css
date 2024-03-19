@@ -62,5 +62,5 @@
     visibility: hidden;
 }
 .rotate{
-    transform: rotate();
+    transform: rotate(180deg);
 }
