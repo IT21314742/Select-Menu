@@ -9,5 +9,5 @@ selectorField.onclick = function(){
     arrowIcon.classList.toggle("rotate");
 }
 for(Option of options){
-    Option.onclick =
+    Option.onclick = 
 }
