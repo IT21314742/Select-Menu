@@ -4,3 +4,4 @@ var options = document.getElementsByClassName("options");
 var list = document.getElementById("list");
 var arrowIcon = document.getElementById("arrowIcon")
 
+selectorField
