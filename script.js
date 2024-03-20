@@ -4,4 +4,6 @@ var options = document.getElementsByClassName("options");
 var list = document.getElementById("list");
 var arrowIcon = document.getElementById("arrowIcon")
 
-selectorField.onclick = function(){}
+selectorField.onclick = function(){
+    
+}
