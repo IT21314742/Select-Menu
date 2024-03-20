@@ -11,6 +11,6 @@ selectorField.onclick = function(){
 for(Option of options){
     Option.onclick = function(){
         selectText.innerHTML = this.textContent;
-        list.classList.toggle("hide")
+        list.classList.toggle("hide");
     }
 }
