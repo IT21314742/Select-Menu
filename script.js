@@ -10,6 +10,6 @@ selectorField.onclick = function(){
 }
 for(Option of options){
     Option.onclick = function(){
-        selectText.innerHTML = this.textContent
+        selectText.innerHTML = this.textContent;
     }
 }
