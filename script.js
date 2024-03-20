@@ -8,4 +8,4 @@ selectorField.onclick = function(){
     list.classList.toggle("hide");
     arrowIcon.classList.toggle("rotate");
 }
-for
+for()
