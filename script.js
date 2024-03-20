@@ -5,5 +5,5 @@ var list = document.getElementById("list");
 var arrowIcon = document.getElementById("arrowIcon")
 
 selectorField.onclick = function(){
-    
+    list
 }
