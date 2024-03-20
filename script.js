@@ -6,4 +6,5 @@ var arrowIcon = document.getElementById("arrowIcon")
 
 selectorField.onclick = function(){
     list.classList.toggle("hide");
+    
 }
